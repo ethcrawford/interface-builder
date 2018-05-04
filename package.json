@@ -1,0 +1,9 @@
+{
+  "name": "interface-builder",
+  "version": "1.0.0",
+  "description": "Set of components for building an interface",
+  "main": "index.js",
+  "author": "Ethan Crawford <ethcrawford@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
